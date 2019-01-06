@@ -1,0 +1,26 @@
+{
+  "name": "jay-proxy-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrla26-fec-table-it/jay-proxy-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrla26-fec-table-it/jay-proxy-server/issues"
+  },
+  "homepage": "https://github.com/hrla26-fec-table-it/jay-proxy-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "router": "^1.3.3"
+  }
+}
